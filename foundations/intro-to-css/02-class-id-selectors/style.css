@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.number1 {
+  background-color: pink;
+  font-family: Verdana, Geneva, Tahoma, de sans-serif ;
+  font-family: DejaVu Sans, sans-serif;
+
+}
+
+#number2 {
+  color: blue;
+  font-size: 32px;
+}
+
+.number1.number3 {
+  
+  font-size: 24px;
+}
+
+#number4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
